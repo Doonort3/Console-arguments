@@ -1,0 +1,16 @@
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\bin\Debug\net5.0\CheckArgs.exe
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\bin\Debug\net5.0\CheckArgs.deps.json
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\bin\Debug\net5.0\CheckArgs.runtimeconfig.json
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\bin\Debug\net5.0\CheckArgs.runtimeconfig.dev.json
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\bin\Debug\net5.0\CheckArgs.dll
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\bin\Debug\net5.0\ref\CheckArgs.dll
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\bin\Debug\net5.0\CheckArgs.pdb
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.csproj.AssemblyReference.cache
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.AssemblyInfoInputs.cache
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.AssemblyInfo.cs
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.csproj.CoreCompileInputs.cache
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.dll
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\ref\CheckArgs.dll
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.pdb
+D:\Github\UmbrellaOS-cosmos rewrite\CheckArgs\CheckArgs\obj\Debug\net5.0\CheckArgs.genruntimeconfig.cache
